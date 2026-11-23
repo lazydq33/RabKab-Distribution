@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.10",
-  "displayVersion": "1.9.8j",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8j/IndustriaPackage-1.9.8j.bin",
-  "sha256": "77c731f38a366a548d08159a59d39bbf03e09890a93b46503268ea7ca83eba65",
-  "notes": "Обновлены иконка и ярлык: монограмма «ИК». На заставке и главной панели теперь «Индустрия кадров», цвет надписи соответствует теме."
+  "version": "1.9.8.11",
+  "displayVersion": "1.9.8k",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8k/IndustriaPackage-1.9.8k.bin",
+  "sha256": "93b76e094fec92b460b8bddb5267f145183d27eebc99ef8d83e7c8bc5e26104d",
+  "notes": "На главной вкладке «Обзор» добавлена тонкая декоративная волна в шапке; цвет подстраивается под светлую, тёмную и малахитовую темы. Волна не перекрывает смены, статистику или кнопки."
 }
