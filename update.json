@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.1",
-  "displayVersion": "1.9.8a",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8a/RabKabPackage-1.9.8a.bin",
-  "sha256": "4e5587ba8b8493566406a9b0f06d1d3a02afcc20ea52cd5f5486b5faa35b1863",
-  "notes": "Исправлено мерцание и отображение ячеек табеля. Поля даты и темы приведены к дизайну приложения. Добавлены три разных звука уведомлений: «Капля», «Колокольчик» и «Ритм»."
+  "version": "1.9.8.2",
+  "displayVersion": "1.9.8b",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8b/RabKabPackage-1.9.8b.bin",
+  "sha256": "bb962b6a544c90777b208a0e01a827ca7d853d9b96ece8faa3d39a349af50903",
+  "notes": "Исправлены наложения строк при переключении вкладок и белый фон состава смены в обзоре. Календарь и выбор темы оформлены под приложение; статусы «На месте» целиком видны в таблицах расписания и явки."
 }
