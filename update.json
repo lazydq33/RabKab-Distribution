@@ -1,7 +1,7 @@
 {
-  "version": "1.9.11f",
-  "displayVersion": "1.9.11f",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11f/IndustriaPackage-1.9.11f.bin",
-  "sha256": "97e05e5ee00de93da834cc03d9babb579a0311c7202ce07c5e74156066f93f24",
-  "notes": "Добавлены редактирование и синхронизация имени сотрудника, телефон в таблице, отдельная подсветка ячеек при наведении и убраны квадратные подложки панелей."
+  "version": "1.9.11g",
+  "displayVersion": "1.9.11g",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11g/IndustriaPackage-1.9.11g.bin",
+  "sha256": "b3714178fc0dbea0a52d50176e1a49f19fd6dc3351f52a0284d2c456fb77e989",
+  "notes": "Добавлены редактирование и синхронизация имени сотрудника, группы с нумерацией и счётчиками, столбец телефона, отдельная подсветка ячеек и убраны квадратные подложки панелей."
 }
