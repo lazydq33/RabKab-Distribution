@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.7",
-  "displayVersion": "1.9.8g",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8g/RabKabPackage-1.9.8g.bin",
-  "sha256": "a70454aad16babcab78972b6a178979c5ac9a7ed9639b7024b9b05ff74c5eb6e",
-  "notes": "Убрана прямоугольная подложка у полей даты и темы в тёмной и зелёной темах. Обновлены справка и инструкция."
+  "version": "1.9.8.8",
+  "displayVersion": "1.9.8h",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8h/RabKabPackage-1.9.8h.bin",
+  "sha256": "5502f18d81d0af371495bbd052ade1d77935b8cdb984a0f4f53dd536cbf87268",
+  "notes": "Добавлена окраска системной строки заголовка под выбранную тему в Windows 11. Системные кнопки управления окном сохранены."
 }
