@@ -1,7 +1,7 @@
 {
-  "version": "1.9.11e",
-  "displayVersion": "1.9.11e",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11e/IndustriaPackage-1.9.11e.bin",
-  "sha256": "31ddcc1b47fc256a498508f3942d86c065ca9b23b047ca9e86946a24a2247693",
-  "notes": "Убраны квадратные углы у карточек обзора, добавлена подсветка строк таблиц и карточек при наведении мыши."
+  "version": "1.9.11f",
+  "displayVersion": "1.9.11f",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11f/IndustriaPackage-1.9.11f.bin",
+  "sha256": "97e05e5ee00de93da834cc03d9babb579a0311c7202ce07c5e74156066f93f24",
+  "notes": "Добавлены редактирование и синхронизация имени сотрудника, телефон в таблице, отдельная подсветка ячеек при наведении и убраны квадратные подложки панелей."
 }
