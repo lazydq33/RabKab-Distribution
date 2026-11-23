@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.0",
-  "displayVersion": "1.9.8",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8/RabKabPackage-1.9.8.bin",
-  "sha256": "75407718de6756047da075d0e48e2cce798eb2bab74a125516df51d0787256e9",
-  "notes": "Строки таблиц теперь оформлены карточками со скруглениями, исправлено мерцание вкладок. Добавлены настройки напоминаний о явке и задачах с выбором звука."
+  "version": "1.9.8.1",
+  "displayVersion": "1.9.8a",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8a/RabKabPackage-1.9.8a.bin",
+  "sha256": "cab673a2a7bdc6d38fe974fd27064077f286eabf293a5720c16b655c9d422d4a",
+  "notes": "Исправлено мерцание и отображение ячеек табеля. Поля даты и темы приведены к дизайну приложения. Добавлены три разных звука уведомлений: «Капля», «Колокольчик» и «Ритм»."
 }
