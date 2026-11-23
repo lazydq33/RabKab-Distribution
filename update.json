@@ -1,0 +1,7 @@
+{
+  "version": "1.9.8.0",
+  "displayVersion": "1.9.8",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8/RabKabPackage-1.9.8.bin",
+  "sha256": "75407718de6756047da075d0e48e2cce798eb2bab74a125516df51d0787256e9",
+  "notes": "Строки таблиц теперь оформлены карточками со скруглениями, исправлено мерцание вкладок. Добавлены настройки напоминаний о явке и задачах с выбором звука."
+}
