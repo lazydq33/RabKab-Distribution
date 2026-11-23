@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.9",
-  "displayVersion": "1.9.8i",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8i/IndustriaPackage-1.9.8i.bin",
-  "sha256": "8d20798bfd81b8a8b74765f09e73a76e5f95a471a956f0eb2ecde02bd35b44dc",
-  "notes": "В поиске подмены добавлена кнопка «Сбросить отметку» для очистки отклика и времени контакта. Название приложения изменено на «Индустрия». Обновление размещено в прежнем репозитории."
+  "version": "1.9.8.10",
+  "displayVersion": "1.9.8j",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8j/IndustriaPackage-1.9.8j.bin",
+  "sha256": "3b4f12a65c82d89ff7eeab634f0ba901ab9507bf4813360d9dee4a3ffc4739c7",
+  "notes": "Обновлены иконка и ярлык: монограмма «ИК». На заставке и главной панели теперь «Индустрия кадров», цвет надписи соответствует теме."
 }
