@@ -1,7 +1,7 @@
 {
-  "version": "1.9.11b",
-  "displayVersion": "1.9.11b",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11b/IndustriaPackage-1.9.11b.bin",
-  "sha256": "c939b60e93bc425df225102ccc937c7673ae3722a8bfa665158572a9865e2a6b",
-  "notes": "Встроенный почтовый ящик откатан. Возвращена подготовка письма в почтовой программе Windows; интеграция MAX остаётся удалённой."
+  "version": "1.9.11c",
+  "displayVersion": "1.9.11c",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11c/IndustriaPackage-1.9.11c.bin",
+  "sha256": "4d0bed9fac8a635f359383100a0472ebffe0170e68641594c395766653bb9d41",
+  "notes": "Письмо открывается черновиком в веб-почте Gmail, Яндекс.Почте или Mail.ru с заполненными адресатами, темой и текстом."
 }
