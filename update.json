@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.2",
-  "displayVersion": "1.9.8b",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8b/RabKabPackage-1.9.8b.bin",
-  "sha256": "bb962b6a544c90777b208a0e01a827ca7d853d9b96ece8faa3d39a349af50903",
-  "notes": "Исправлены наложения строк при переключении вкладок и белый фон состава смены в обзоре. Календарь и выбор темы оформлены под приложение; статусы «На месте» целиком видны в таблицах расписания и явки."
+  "version": "1.9.8.3",
+  "displayVersion": "1.9.8c",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8c/RabKabPackage-1.9.8c.bin",
+  "sha256": "ffb7cef6f7e08fd8d318c6389d4f02741dac49d842eb782b270f16f6cacfd670",
+  "notes": "Исправлена ошибка смены темы, возвращены скруглённые строки, горизонтальная прокрутка окрашена в тему и обновлены дата с выбором темы. Обновлена справка."
 }
