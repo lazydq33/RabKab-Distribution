@@ -2,6 +2,6 @@
   "version": "1.9.8.1",
   "displayVersion": "1.9.8a",
   "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8a/RabKabPackage-1.9.8a.bin",
-  "sha256": "cab673a2a7bdc6d38fe974fd27064077f286eabf293a5720c16b655c9d422d4a",
+  "sha256": "4e5587ba8b8493566406a9b0f06d1d3a02afcc20ea52cd5f5486b5faa35b1863",
   "notes": "Исправлено мерцание и отображение ячеек табеля. Поля даты и темы приведены к дизайну приложения. Добавлены три разных звука уведомлений: «Капля», «Колокольчик» и «Ритм»."
 }
