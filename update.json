@@ -1,7 +1,7 @@
 {
-  "version": "1.9.12",
-  "displayVersion": "1.9.12",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.12/IndustriaPackage-1.9.12.bin",
-  "sha256": "8508b322f2d1c9f6538012c42bb9ef44d339ef9984257c55e6c2d156830ac255",
-  "notes": "Добавлены контекстные иконки для разделов, панелей действий и диалогов. Сборка включает улучшения предыдущих выпусков."
+  "version": "1.9.13",
+  "displayVersion": "1.9.13",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.13/IndustriaPackage-1.9.13.bin",
+  "sha256": "b9caf041cb2a6dbb84475bc5871813bc2e2828742a9633099ec1c34bb1ec19b4",
+  "notes": "Имя сотрудника и время смены редактируются прямо в ячейке. Переименование синхронизируется между списком, расписанием и карточками. Добавлены отдельная вкладка карточек сотрудников и выбор статусов и участков из доступных вариантов."
 }
