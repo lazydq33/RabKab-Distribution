@@ -1,7 +1,7 @@
 {
-  "version": "1.9.11g",
-  "displayVersion": "1.9.11g",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11g/IndustriaPackage-1.9.11g.bin",
-  "sha256": "b3714178fc0dbea0a52d50176e1a49f19fd6dc3351f52a0284d2c456fb77e989",
-  "notes": "Добавлены редактирование и синхронизация имени сотрудника, группы с нумерацией и счётчиками, столбец телефона, отдельная подсветка ячеек и убраны квадратные подложки панелей."
+  "version": "1.9.11h",
+  "displayVersion": "1.9.11h",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11h/IndustriaPackage-1.9.11h.bin",
+  "sha256": "4a31106039e6376e0c62b3d2a6dbb7e1501b211af41728add40894dc9ed21e0d",
+  "notes": "Добавлено редактирование имени сотрудника и времени смены двойным щелчком с синхронизацией. Также включены группы и нумерация, тематическая прокрутка, подсветка ячеек, обновлённое напоминание о явке и правки светлой темы."
 }
