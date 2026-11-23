@@ -1,7 +1,7 @@
 {
-  "version": "1.9.11d",
-  "displayVersion": "1.9.11d",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11d/IndustriaPackage-1.9.11d.bin",
-  "sha256": "a01ea26d51ea99b59cee0bcad2d460918463012166605ba1f9f692aea11ecd73",
-  "notes": "Обновлён интерфейс: навигация разделена по группам, сводные карточки стали понятнее и доступны для экранного чтения. Функции и данные сохранены."
+  "version": "1.9.11e",
+  "displayVersion": "1.9.11e",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11e/IndustriaPackage-1.9.11e.bin",
+  "sha256": "31ddcc1b47fc256a498508f3942d86c065ca9b23b047ca9e86946a24a2247693",
+  "notes": "Убраны квадратные углы у карточек обзора, добавлена подсветка строк таблиц и карточек при наведении мыши."
 }
