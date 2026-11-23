@@ -1,7 +1,7 @@
 {
-  "version": "1.9.9.0",
-  "displayVersion": "1.9.9",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.9/IndustriaPackage-1.9.9.bin",
-  "sha256": "a1f9ada11b8514d8095efa6d5cbfed384028ab5be8a6c1372e04b85bf7e5db0c",
-  "notes": "Обзор получил общую сводку по заявке, сменам и задачам; добавлено создание и редактирование шаблонов часов. Ручные текстовые сообщения MAX доступны по выбранным привязкам. Локальные файлы и почта не сканируются и не передаются; автоматическая передача расписания отключена."
+  "version": "1.9.10.0",
+  "displayVersion": "1.9.10",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.10/IndustriaPackage-1.9.10.bin",
+  "sha256": "4578a422114f560fb35c2107cb4714b4193ffe90d932abce42cffabd9563d085",
+  "notes": "Вместо MAX добавлена почта: можно выбрать сотрудников и подготовить письмо в почтовой программе Windows. Черновик отправляется только после ручной проверки и подтверждения пользователем. Настройки MAX удаляются из профилей объектов."
 }
