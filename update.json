@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.3",
-  "displayVersion": "1.9.8c",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8c/RabKabPackage-1.9.8c.bin",
-  "sha256": "ffb7cef6f7e08fd8d318c6389d4f02741dac49d842eb782b270f16f6cacfd670",
-  "notes": "Исправлена ошибка смены темы, возвращены скруглённые строки, горизонтальная прокрутка окрашена в тему и обновлены дата с выбором темы. Обновлена справка."
+  "version": "1.9.8.4",
+  "displayVersion": "1.9.8d",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8d/RabKabPackage-1.9.8d.bin",
+  "sha256": "f221a246ca6f9386c1a4b45841bb5558b8e2dd3a38db202f037c2e5250cb9495",
+  "notes": "Исправлен сбой запуска после обновления 1.9.8c на объектах с сохранёнными данными. Остальные исправления интерфейса 1.9.8c сохранены."
 }
