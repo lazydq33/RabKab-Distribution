@@ -1,7 +1,7 @@
 {
-  "version": "1.9.11a",
-  "displayVersion": "1.9.11a",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11a/IndustriaPackage-1.9.11a.bin",
-  "sha256": "98fb2fe7a66bda05de65d8019b7fa913ef930b98cd71e8bf2edcc023352be2c7",
-  "notes": "Добавлен встроенный почтовый ящик: Gmail, Mail.ru, Яндекс и совместимые IMAP/SMTP службы; входящие, отправка и вложения."
+  "version": "1.9.11b",
+  "displayVersion": "1.9.11b",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11b/IndustriaPackage-1.9.11b.bin",
+  "sha256": "c939b60e93bc425df225102ccc937c7673ae3722a8bfa665158572a9865e2a6b",
+  "notes": "Встроенный почтовый ящик откатан. Возвращена подготовка письма в почтовой программе Windows; интеграция MAX остаётся удалённой."
 }
