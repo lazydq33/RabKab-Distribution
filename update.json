@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.5",
-  "displayVersion": "1.9.8e",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8e/RabKabPackage-1.9.8e.bin",
-  "sha256": "dcc3f6f62476a85de26065641e834f3638691e3f672ef6087b017a5c3c063296",
-  "notes": "Исправлена перерисовка строк при переключении вкладок. Поля даты и темы оформлены в форме капсул."
+  "version": "1.9.8.6",
+  "displayVersion": "1.9.8f",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8f/RabKabPackage-1.9.8f.bin",
+  "sha256": "d32d275b3f9ab7a30dd9ca4f0fe3b574d61bafaf268d480fe041701444081611",
+  "notes": "Исправлено выделение статуса и читаемость первой строки в светлой теме. Поля даты и темы стали выраженными капсулами."
 }
