@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.4",
-  "displayVersion": "1.9.8d",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8d/RabKabPackage-1.9.8d.bin",
-  "sha256": "f221a246ca6f9386c1a4b45841bb5558b8e2dd3a38db202f037c2e5250cb9495",
-  "notes": "Исправлен сбой запуска после обновления 1.9.8c на объектах с сохранёнными данными. Остальные исправления интерфейса 1.9.8c сохранены."
+  "version": "1.9.8.5",
+  "displayVersion": "1.9.8e",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8e/RabKabPackage-1.9.8e.bin",
+  "sha256": "dcc3f6f62476a85de26065641e834f3638691e3f672ef6087b017a5c3c063296",
+  "notes": "Исправлена перерисовка строк при переключении вкладок. Поля даты и темы оформлены в форме капсул."
 }
