@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.8",
-  "displayVersion": "1.9.8h",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8h/RabKabPackage-1.9.8h.bin",
-  "sha256": "5502f18d81d0af371495bbd052ade1d77935b8cdb984a0f4f53dd536cbf87268",
-  "notes": "Добавлена окраска системной строки заголовка под выбранную тему в Windows 11. Системные кнопки управления окном сохранены."
+  "version": "1.9.8.9",
+  "displayVersion": "1.9.8i",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8i/IndustriaPackage-1.9.8i.bin",
+  "sha256": "8d20798bfd81b8a8b74765f09e73a76e5f95a471a956f0eb2ecde02bd35b44dc",
+  "notes": "В поиске подмены добавлена кнопка «Сбросить отметку» для очистки отклика и времени контакта. Название приложения изменено на «Индустрия». Обновление размещено в прежнем репозитории."
 }
