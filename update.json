@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.6",
-  "displayVersion": "1.9.8f",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8f/RabKabPackage-1.9.8f.bin",
-  "sha256": "d32d275b3f9ab7a30dd9ca4f0fe3b574d61bafaf268d480fe041701444081611",
-  "notes": "Исправлено выделение статуса и читаемость первой строки в светлой теме. Поля даты и темы стали выраженными капсулами."
+  "version": "1.9.8.7",
+  "displayVersion": "1.9.8g",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8g/RabKabPackage-1.9.8g.bin",
+  "sha256": "a70454aad16babcab78972b6a178979c5ac9a7ed9639b7024b9b05ff74c5eb6e",
+  "notes": "Убрана прямоугольная подложка у полей даты и темы в тёмной и зелёной темах. Обновлены справка и инструкция."
 }
