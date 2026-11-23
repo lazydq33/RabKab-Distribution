@@ -1,7 +1,7 @@
 {
-  "version": "1.9.10.0",
-  "displayVersion": "1.9.10",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.10/IndustriaPackage-1.9.10.bin",
-  "sha256": "4578a422114f560fb35c2107cb4714b4193ffe90d932abce42cffabd9563d085",
-  "notes": "Вместо MAX добавлена почта: можно выбрать сотрудников и подготовить письмо в почтовой программе Windows. Черновик отправляется только после ручной проверки и подтверждения пользователем. Настройки MAX удаляются из профилей объектов."
+  "version": "1.9.11.0",
+  "displayVersion": "1.9.11",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11/IndustriaPackage-1.9.11.bin",
+  "sha256": "0036c8fd150bd51718f95f5d44716d972a8d202a65a4289c93e99610f25c6ddd",
+  "notes": "Исправлена обработка длинных писем. В версии 1.9.10 удалена интеграция MAX и добавлена подготовка писем через почтовую программу Windows."
 }
