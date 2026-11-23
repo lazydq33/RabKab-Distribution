@@ -1,7 +1,7 @@
 {
-  "version": "1.9.11c",
-  "displayVersion": "1.9.11c",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11c/IndustriaPackage-1.9.11c.bin",
-  "sha256": "4d0bed9fac8a635f359383100a0472ebffe0170e68641594c395766653bb9d41",
-  "notes": "Письмо открывается черновиком в веб-почте Gmail, Яндекс.Почте или Mail.ru с заполненными адресатами, темой и текстом."
+  "version": "1.9.11d",
+  "displayVersion": "1.9.11d",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.11d/IndustriaPackage-1.9.11d.bin",
+  "sha256": "86d7360e7d73315710177640a5e1991bf11c0b0bb6da3b813f3af4ea7974393e",
+  "notes": "Обновлён интерфейс: навигация разделена по группам, сводные карточки стали понятнее. Функции и данные сохранены."
 }
