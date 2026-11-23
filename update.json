@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8.11",
-  "displayVersion": "1.9.8k",
-  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8k/IndustriaPackage-1.9.8k.bin",
-  "sha256": "93b76e094fec92b460b8bddb5267f145183d27eebc99ef8d83e7c8bc5e26104d",
-  "notes": "На главной вкладке «Обзор» добавлена тонкая декоративная волна в шапке; цвет подстраивается под светлую, тёмную и малахитовую темы. Волна не перекрывает смены, статистику или кнопки."
+  "version": "1.9.8.12",
+  "displayVersion": "1.9.8l",
+  "packageUrl": "https://github.com/lazydq33/RabKab-Distribution/releases/download/v1.9.8l/IndustriaPackage-1.9.8l.bin",
+  "sha256": "126b611e8a006d9f775190059242b6a8cf3f638367e9b51833a1b43b0e2a536d",
+  "notes": "Фирменная волна перемещена прямо под надпись «ИНДУСТРИЯ КАДРОВ» в боковой панели; цвет меняется вместе со светлой, тёмной и малахитовой темами. Заголовок «Обзора» очищен от декоративной графики. Обновлены справка и инструкция."
 }
